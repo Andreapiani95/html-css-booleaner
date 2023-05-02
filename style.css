@@ -26,10 +26,23 @@ tbody tr:nth-child(odd)
     background-color: #FEFE00;
 }
 
+.monitor{
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
+}
+
 .banner{
     background-image: url(img/pattern.png);
     background-color: #4EA0FF;
     height: 175px;
+}
+
+.other-articles{
+    height: 200px;
+    width: 200px;
+    color: #FFFFFF;
 }
 
 .logo{
