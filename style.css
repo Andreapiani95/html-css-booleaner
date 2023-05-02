@@ -28,9 +28,20 @@ tbody tr:nth-child(odd)
 
 .monitor{
     background-image: url(img/monitor.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-size: contain;
+}
+
+.graph{
+    background-image: url(img/graph.jpg);
+}
+
+.link-caption{
+    color: #FFFFFF;
+    height: 50%;
+    width: 60%;
+    position: relative;
+    top: 2%;
+    text-align: center;
+    font-size: small;
 }
 
 .banner{
@@ -42,7 +53,9 @@ tbody tr:nth-child(odd)
 .other-articles{
     height: 200px;
     width: 200px;
-    color: #FFFFFF;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
 }
 
 .logo{
