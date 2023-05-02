@@ -1,3 +1,16 @@
+#headline{
+    font-weight: bolder;
+    font-style: arial;
+}
+
+#author{
+    color: #30AFE6;
+}
+
+.photo-caption{
+    font-size: smaller;
+}
+
 .banner{
     background-image: url(img/pattern.png);
     background-color: #4EA0FF;
