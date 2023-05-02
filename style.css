@@ -1,3 +1,14 @@
+thead th
+{
+    color: #FFFFFF;
+    background: #20A9E5;
+}
+
+tbody tr:nth-child(odd)
+{
+    background: #B1E5F2;
+}
+
 #headline{
     font-weight: bolder;
     font-style: arial;
@@ -9,6 +20,10 @@
 
 .photo-caption{
     font-size: smaller;
+}
+
+.highlighted{
+    background-color: #FEFE00;
 }
 
 .banner{
